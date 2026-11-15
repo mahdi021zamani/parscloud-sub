@@ -1,1 +1,4 @@
-.
+aether://?protocol=wg&scan=balanced&ip=v4&psiphon=chain&psiphon_mode=auto&region=DE#mix
+aether://?protocol=wg-over-masque&scan=balanced&ip=v4&transport=h2&psiphon=chain&psiphon_mode=auto#over
+aether://?protocol=wg&scan=balanced&ip=v4&psiphon=only&psiphon_mode=auto&cdn_ips=23.40.225.2%2C23.64.27.97%2C23.213.190.204%2C23.33.248.162%2C184.87.34.79%2C184.29.119.186%2C104.120.84.24%2C23.209.6.142%2C23.201.84.123%2C184.84.42.9%2C23.10.143.121%2C23.196.159.203%2C23.195.140.163%2C23.223.81.234%2C23.39.100.92%2C23.41.134.15&cdn_sets=psiphon-akamai#ak
+aether://?protocol=wg&scan=balanced&ip=v4&psiphon=only&psiphon_mode=cdn#siphon2
